@@ -81,7 +81,7 @@ const Register = () => {
         setRegistrationComplete(true);
         setTimeout(() => {
           window.location.href =
-            "https://docs.google.com/forms/d/e/1FAIpQLSc4KvhRweS4NfetsP-kdPJ4rgJdXOrxVsVUXVP1h0bg5Wpe3Q/viewform";
+            "https://docs.google.com/forms/d/e/1FAIpQLSdh6PJDZUwmdiLrb-4OAz6ibXhBmE8W7g-xFvtphP6XKAjuJw/viewform";
         }, 1500);
       }
     } catch (error) {
